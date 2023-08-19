@@ -1,0 +1,6 @@
+pandas
+numpy
+json
+tensorflow
+scikit-surprise
+matplotlib
